@@ -1,4 +1,4 @@
-![MasterHead](https://img.freepik.com/free-photo/glasses-lie-laptop-reflecting-light-from-screen-dark_169016-53056.jpg?t=st=1744386976~exp=1744390576~hmac=5543a3782cbd4d351a28d822756af8ed5899433a277619d97bfd10e5b2d0c847&w=1380)
+![MasterHead](https://img.freepik.com/free-photo/laptop-with-glowing-screen-table-dark-top-view-copy-space_169016-51607.jpg?semt=ais_hybrid&w=740)
 <h1 align="center">Hi 👋, I'm Gaurav Patil</h1>
 <h3 align="center">Code. Create. Deploy. | Full Stack Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
